@@ -1,0 +1,15 @@
+	form {
+  max-width: 500px;
+  margin: 0 auto;
+  padding-top: 20px;
+}
+form button.small {
+  padding: 8px 17px;
+}
+#companies {
+  margin: 0 auto;
+}
+#companies button.tiny {
+  margin-bottom: 0;
+  padding: 5px 10px;
+}
